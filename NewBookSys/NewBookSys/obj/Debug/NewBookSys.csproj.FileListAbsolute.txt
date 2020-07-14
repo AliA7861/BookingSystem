@@ -1,0 +1,14 @@
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.csprojAssemblyReference.cache
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.Login.resources
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.Properties.Resources.resources
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.Register.resources
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.csproj.GenerateResource.cache
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.csproj.CoreCompileInputs.cache
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\bin\Debug\NewBookSys.exe.config
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\bin\Debug\NewBookSys.exe
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\bin\Debug\NewBookSys.pdb
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.exe
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.pdb
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.BookingPage.resources
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.AdminLogin.resources
+C:\Users\ali-a\Desktop\Project without hashing\NewBookSys\NewBookSys\obj\Debug\NewBookSys.AdminPage.resources
